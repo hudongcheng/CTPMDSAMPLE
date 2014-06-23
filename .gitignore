@@ -1,0 +1,10 @@
+*.ncb
+*.sdf
+*.con
+_Upgrade*
+ipch
+Debug
+Bin
+*.old
+*.user
+*.suo
